@@ -1,1 +1,1 @@
-On va décris le projet Tasksmanagement infrastucture
+On va décris l'infrastucture du projet Tasksmanagement 
